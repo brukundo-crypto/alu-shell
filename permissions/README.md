@@ -13,3 +13,4 @@ Bash scripts covering Linux file permissions, users and groups.
 - 8-James_Bond: sets the permission of hello to 007 - no permission for owner and group, all permissions for other users.
 - 9-John_Doe: sets the mode of the file hello to 753 (-rwxr-x-wx).
 - 10-mirror_permissions: sets the mode of the file hello to the same mode as the file olleh.
+- 11-directories_permissions: adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users, without changing regular files.
