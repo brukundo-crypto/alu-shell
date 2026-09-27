@@ -11,3 +11,4 @@ Bash scripts covering Linux file permissions, users and groups.
 - 6-multiple_permissions: adds execute permission to the owner and group owner, and read permission to other users, on the file hello.
 - 7-everybody: adds execute permission to the owner, the group owner and other users, on the file hello.
 - 8-James_Bond: sets the permission of hello to 007 - no permission for owner and group, all permissions for other users.
+- 9-John_Doe: sets the mode of the file hello to 753 (-rwxr-x-wx).
